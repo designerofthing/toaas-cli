@@ -35,3 +35,8 @@ $ npm uninstall -g toaas-cli
 ```
 
 **This is heavily based on Thomas Ochman's Chuck Norris CLI https://github.com/tochman/chuck-cli.git, it is meant as a homage not plagiarism**
+
+License
+--------------
+
+Released under the [MIT License](http://opensource.org/licenses/MIT).
