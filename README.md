@@ -25,6 +25,12 @@ $ toaas -n Faraz
 Here's a random Thomas Ochman quote to inspire you Faraz:
 Grab the Low hanging fruit!
 ```
+If you would like a new quote everytime you open a terminal window:
+
+add the following code to the bottom of your .zlogin file (for zsh users) or the top of your .bashrc file (for bash users).
+```
+toaas -n <Your name>
+```
 
 ### Uninstall
 
