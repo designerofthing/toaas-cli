@@ -1,0 +1,18 @@
+{
+  "name": "toaas-cli",
+  "version": "0.0.1",
+  "description": "Thomas Ochman CLI quote generator using http://www.toaas.herokuapp.com/quotes/",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Ochman (thomas@craftacademy.se), Steve Watson (designerofthings@gmail.com)",
+  "license": "MIT",
+  "bin": {
+    "toaas": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.3.1"
+  }
+}
