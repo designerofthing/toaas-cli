@@ -1,13 +1,13 @@
-## Chuck Norris jokes
+## Thomas Ochman quotes
 
-**Bring the joy of Chuck Norris to your terminal**
+**Like gold dust, these inspirational quotes will start your cli baby up**
 
 ### Installation
 
 Clone the repo to your localhost using:
 
 ```
-$ git clone https://github.com/tochman/chuck-cli.git && cd chuck-cli
+$ git clone https://github.com/designerofthing/toaas-cli.git && cd toaas-cli
 ```
 
 Install the package (from within the project folder):
@@ -21,9 +21,9 @@ $ npm install -g .
 Simple:
 
 ```
-$ chuck -n Kalle
-Here's a random Chuck Norris joke for you Kalle:
-According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
+$ toaas -n Faraz
+Here's a random Thomas Ochman quote to inspire you Faraz:
+Grab the Low hanging fruit!
 ```
 
 ### Uninstall
@@ -31,7 +31,7 @@ According to Einstein's theory of relativity, Chuck Norris can actually roundhou
 If you want to remove the package, just uninstall it using `npm`:
 
 ```
-$ npm uninstall -g chuck-cli
+$ npm uninstall -g toaas-cli
 ```
 
-**This is a late night project I worked on when learning about creating cli applications. Take it for what it is.**
+**This is heavily based on Thomas Ochman's Chuck Norris CLI https://github.com/tochman/chuck-cli.git, it is meant as a homage not plagiarism**
